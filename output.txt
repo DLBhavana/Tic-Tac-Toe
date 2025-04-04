@@ -1,0 +1,150 @@
+-------------
+|   |   |   | 
+-------------
+|   |   |   | 
+-------------
+|   |   |   | 
+-------------
+Player X's turn.
+Enter row (1-3): 1
+Enter column (1-3): 2
+-------------
+|   | X |   |
+-------------
+|   |   |   |
+-------------
+|   |   |   |
+-------------
+Computer's turn.
+Computer chooses row 3 and column 2
+-------------
+|   | X |   | 
+-------------
+|   |   |   |
+-------------
+|   | O |   |
+-------------
+Player X's turn.
+Enter row (1-3): 1
+Enter column (1-3): 3
+-------------
+|   | X | X |
+-------------
+|   |   |   |
+-------------
+|   | O |   |
+-------------
+Computer's turn.
+Computer chooses row 2 and column 2
+-------------
+|   | X | X |
+-------------
+|   | O |   |
+-------------
+|   | O |   |
+-------------
+Player X's turn.
+Enter row (1-3): 1
+Enter column (1-3): 1
+-------------
+| X | X | X |
+-------------
+|   | O |   |
+-------------
+|   | O |   |
+-------------
+Player X wins!
+
+
+Test Case-2:
+
+
+Do you want to play again? (yes/no): yes
+-------------
+|   |   |   |
+-------------
+|   |   |   |
+-------------
+|   |   |   |
+-------------
+Computer's turn.
+Computer chooses row 1 and column 3
+-------------
+|   |   | O |
+-------------
+|   |   |   |
+-------------
+|   |   |   |
+-------------
+Player X's turn.
+Enter row (1-3): 1
+Enter column (1-3): 2
+-------------
+|   | X | O |
+-------------
+|   |   |   |
+-------------
+|   |   |   |
+-------------
+Computer's turn.
+Computer chooses row 2 and column 3
+-------------
+|   | X | O |
+-------------
+|   |   | O |
+-------------
+|   |   |   |
+-------------
+Player X's turn.
+Enter row (1-3): 3
+Enter column (1-3): 3
+-------------
+|   | X | O |
+-------------
+|   |   | O |
+-------------
+|   |   | X |
+-------------
+Computer's turn.
+Computer chooses row 1 and column 1
+-------------
+| O | X | O |
+-------------
+|   |   | O |
+-------------
+|   |   | X |
+-------------
+Player X's turn.
+Enter row (1-3): 2
+Enter column (1-3): 2
+-------------
+| O | X | O |
+-------------
+|   | X | O |
+-------------
+|   |   | X |
+-------------
+Computer's turn.
+Computer chooses row 2 and column 1
+-------------
+| O | X | O |
+-------------
+| O | X | O | 
+-------------
+|   |   | X |
+-------------
+Player X's turn.
+Enter row (1-3): 1
+Enter column (1-3): 3
+Invalid move. Try again.
+Player X's turn.
+Enter row (1-3): 3
+Enter column (1-3): 2
+-------------
+| O | X | O |
+-------------
+| O | X | O |
+-------------
+|   | X | X |
+-------------
+Player X wins!
